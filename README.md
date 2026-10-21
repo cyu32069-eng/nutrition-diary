@@ -2,6 +2,8 @@
 
 一个中文、轻量、可离线使用的饮食记录应用。无需注册，数据保存在自己的浏览器里。
 
+**[直接使用 → 饮食记录](https://cyu32069-eng.github.io/nutrition-diary/)**
+
 ## 功能
 
 - 69 项常用中文食物搜索，记录重量、热量和三大营养素。
@@ -39,7 +41,7 @@ pnpm build
 1. 将本目录源码上传到公开仓库的 `main` 分支。
 2. 仓库 Settings → Pages → Source 选择 **GitHub Actions**。
 3. 在 Actions 运行 **Deploy Pages**；以后推送 main 自动测试、构建和部署。
-4. 以部署回执中的 URL 为准，将其填入仓库 About 的 Website。部署前不存在可用的公开体验地址。
+4. 以部署回执中的 URL 为准，将其填入仓库 About 的 Website。本仓库体验网址为 https://cyu32069-eng.github.io/nutrition-diary/ 。
 
 工作流依据 [GitHub Pages 官方文档](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
 
