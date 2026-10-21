@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "饮食记录",
+    "slug": "nutrition-diary-prototype",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false },
+    "android": { "package": "com.nutritiondiary.prototype" }
+  }
+}
